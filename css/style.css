@@ -1,0 +1,88 @@
+@import url('https://fonts.googleapis.com/css2?family=Combo&family=Indie+Flower&display=swap');
+body {
+    background-color: rgba(153, 231, 58, 0.46);
+}
+
+.header {
+    text-align: center;
+}
+
+.header-title {
+    font-family: 'Combo', cursive;
+    color: rgb(154, 14, 154);
+    font-size: 6rem;
+    margin-bottom: auto;
+    padding-bottom: 0px;
+}
+
+.header-subtitle {
+    font-family: 'Combo', cursive;
+    color: rgb(81, 79, 79);
+}
+
+img {
+    max-width: 70%;
+    height: auto;
+    border-radius: 50%;
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    padding-top: 1rem;
+    padding-bottom: 2rem;
+}
+
+.ingredients {
+    border: 2px solid rgb(154, 14, 154);
+    width: 50%;
+    margin: 0 auto;
+    padding-top: 3rem;
+    padding-bottom: 2rem;
+}
+
+.ingredients-table {
+    border: 1px solid black;
+    margin:auto;
+    padding: 20px;
+    font-family: 'Indie Flower', cursive;
+    font-size: 20px;
+    color: orangered;
+    text-align: left;
+}
+
+.instructions {
+    border: 2px solid rgb(154, 14, 154);
+    width: 50%;
+    margin: 0 auto;
+}
+
+.instructions ol {
+    border: 1px solid orangered;
+    padding: 50px;
+    margin-left: 2rem;
+    margin-right: 2rem;
+    width: 75%;
+    font-family: 'Indie Flower', cursive;
+    font-size: 25px;
+    color: rgb(113, 113, 19);
+    font-style: italic;
+}
+
+p {
+    font-family: 'Combo', cursive;
+    font-size: 30px;
+    text-align: center;
+    font-weight: bold;
+    color: rgb(154, 14, 154);
+}
+
+footer{
+    margin-top: 50px;
+    font-family: 'Combo', cursive;
+    text-align: center;
+    font-size: 20px;
+    color: rgb(168, 79, 47);
+}
+
+#link {
+    padding-bottom: 30px;
+}
